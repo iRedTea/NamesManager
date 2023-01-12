@@ -1,0 +1,13 @@
+#Стандартная преступность, даётся игрокам, которые ни разу не убивали.
+default:
+  color: WHITE
+
+#Пользовательские преступности:
+
+medium:
+  kills: 1
+  color: YELLOW
+
+hard:
+  kills: 2
+  color: RED

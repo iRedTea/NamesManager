@@ -1,0 +1,8 @@
+gender:
+  maleDisplay: "Мужской"
+  femaleDisplay: "Женский"
+
+
+commands:
+  ban: "tempban %player% 24h Умер"
+  rtp: "rtp player %player%"

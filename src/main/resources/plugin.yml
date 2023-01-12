@@ -1,0 +1,12 @@
+name: NamesManager
+version: '${version}'
+main: me.redtea.namesmanager.NamesManager
+api-version: 1.16
+depend: [ SkinsRestorer, PlaceholderAPI ]
+authors: [ itzRedTea ]
+libraries:
+  - 'com.google.inject:guice:5.1.0'
+  - 'org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0'
+  - 'org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1'
+  - 'com.google.inject.extensions:guice-assistedinject:5.1.0'
+  - 'com.github.cryptomorin:XSeries:9.2.0'

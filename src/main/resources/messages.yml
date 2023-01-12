@@ -1,0 +1,42 @@
+undefined: "Новичок"
+
+gui:
+  gender:
+    title: "<!italic><gradient:#FBEC2C:#FD5252><bold>Выберите пол</bold></gradient>"
+    sign:
+      name: "<!italic><gradient:#FBEC2C:#FD5252><bold>Выберите пол</bold></gradient>"
+      lore:
+        - "<!italic><#FBF7F2>Вы можете выбрать <#5331FB>мужской"
+        - "<!italic><#FBF7F2>или <#DF81FB>женский <#FBF7F2>пол."
+      material: OAK_SIGN
+    male:
+      name: "<!italic><#5331FB>Мужской"
+      lore:
+        - "<!italic><#FBF7F2>Кликните, чтобы выбрать!"
+      headOwner: denaco112
+    female:
+      name: "<!italic><#DF81FB>Женский"
+      lore:
+        - "<!italic><#FBF7F2>Кликните, чтобы выбрать!"
+      headOwner: keithzzz
+  name:
+    title: "<!italic><gradient:#FBEC2C:#FD5252><bold>Выберите имя</bold></gradient>"
+    item:
+      name: "<!italic><#F1FB9F><bold>%name%"
+      lore:
+        - "<!italic><#FBF7F2>Кликните, чтобы выбрать это имя"
+      material: SUSPICIOUS_STEW
+    sign:
+      name: "<!italic><gradient:#FBEC2C:#FD5252><bold>Выберите имя</bold></gradient>"
+      lore:
+        - "<!italic><#FBF7F2>Ниже представлены доступные"
+        - "<!italic><#FBF7F2>для вашего выбора имена."
+      material: OAK_SIGN
+  skin:
+    title: "<!italic><gradient:#FBEC2C:#FD5252><bold>Выберите скин</bold></gradient>"
+    item:
+      name: "<!italic><#F1FB9F><bold>Скин <#FBEB13>#%num%"
+      lore:
+        - "<!italic><#FBF7F2>Кликните, чтобы выбрать этот скин"
+registerFinished: "<gradient:#FBEC2C:#FD5252><bold>NamesMC</bold></gradient> <gray>▹ <#FBF7F2>Приятной игры! :)"
+
